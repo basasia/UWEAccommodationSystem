@@ -23,9 +23,9 @@ The design of this application followed the basic pattern of regular application
 
 - Clone the folder UWE-Accommodation-System
 - Make sure to install Netbeans
-- Run the jar file \UWE-Accommodation-System\dist\UWEAccommodationSystem.jar
+- Run the jar file \UWEAccommodationSystem\dist\UWEAccommodationSystem.jar
 - You can login as username: warden, hallmanager or admin. Password: pass
-- Optionally, the application can be run by using Netbeans then run the file \UWE-Accommodation-System\src\uweaccommodationsystem\guicontrollers\GUIRoot  
+- Optionally, the application can be run by using Netbeans then run the file \UWEAccommodationSystem\src\uweaccommodationsystem\guicontrollers\GUIRoot  
 
 ##Tech Stack
 
