@@ -21,7 +21,7 @@ The design of this application followed the basic pattern of regular application
 
 ##Run Locally
 
-- Clone the folder UWE-Accommodation-System
+- Clone the folder UWEAccommodationSystem
 - Make sure to install Netbeans
 - Run the jar file \UWEAccommodationSystem\dist\UWEAccommodationSystem.jar
 - You can login as username: warden, hallmanager or admin. Password: pass
