@@ -9,7 +9,7 @@ Build an application that allows three different types of account to login which
 
 ##Summary 
 
-This application was built using Netbeans and SceneBuilder. Netbeans comes with JAVA and JAVAFX programming language which allows me to implement the back-end of the application based on the principle of object oriented programming such as treating each room as an object and each functionality as a method within the class. SceneBuilder was also used for implementing this application, the user interface and layout were all designed using SceneBuilder combined with JAVAFX for linking all the functionality from the back-end with the front-end of the application.
+This application was built using Netbeans and SceneBuilder. Netbeans comes with JAVA programming language which allows me to implement the back-end of the application based on the principle of object oriented programming such as treating each room as an object and each functionality as a method within the class. SceneBuilder was also used for implementing this application, the user interface and layout were all designed using SceneBuilder combined with JAVAFX for linking all the functionality from the back-end with the front-end of the application.
 
 ##Functionality
 
@@ -31,4 +31,5 @@ The design of this application followed the basic pattern of regular application
 
 - Netbeans
 - JAVA 
+- SceneBuilder
 
