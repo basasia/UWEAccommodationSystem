@@ -33,3 +33,21 @@ The design of this application followed the basic pattern of regular application
 - JAVA 
 - SceneBuilder
 
+Login page:
+
+![image](https://user-images.githubusercontent.com/60352487/120793593-44b2cc00-c561-11eb-8772-095513f34151.png)
+
+Admin page:
+
+![image](https://user-images.githubusercontent.com/60352487/120793665-601dd700-c561-11eb-9071-419777a86136.png)
+
+Hall manager:
+
+![image](https://user-images.githubusercontent.com/60352487/120793736-7c217880-c561-11eb-96b3-ef6d7522e1fb.png)
+
+Warden:
+
+![image](https://user-images.githubusercontent.com/60352487/120793887-aa9f5380-c561-11eb-8702-94d50e7905c9.png)
+
+
+
