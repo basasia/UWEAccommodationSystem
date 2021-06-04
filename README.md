@@ -39,15 +39,15 @@ Login page:
 
 Admin page:
 
-![image](https://user-images.githubusercontent.com/60352487/120793665-601dd700-c561-11eb-9071-419777a86136.png)
+![image](https://user-images.githubusercontent.com/60352487/120794058-e89c7780-c561-11eb-8762-c03cf6e6c694.png)
 
 Hall manager:
 
-![image](https://user-images.githubusercontent.com/60352487/120793736-7c217880-c561-11eb-96b3-ef6d7522e1fb.png)
+![image](https://user-images.githubusercontent.com/60352487/120794115-ffdb6500-c561-11eb-83e1-aa4e8f3c06a1.png)
 
 Warden:
 
-![image](https://user-images.githubusercontent.com/60352487/120793887-aa9f5380-c561-11eb-8702-94d50e7905c9.png)
+![image](https://user-images.githubusercontent.com/60352487/120794175-15e92580-c562-11eb-9968-b36c8f5cf1eb.png)
 
 
 
